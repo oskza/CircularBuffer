@@ -1,0 +1,15 @@
+CircularBuffer  KEYWORD1
+
+capacity  KEYWORD2
+size  KEYWORD2
+isEmpty KEYWORD2
+isFull  KEYWORD2
+push  KEYWORD2
+reset KEYWORD2
+clear KEYWORD2
+oldest  KEYWORD2
+latest  KEYWORD2
+contains  KEYWORD2
+minValue KEYWORD2
+maxValue KEYWORD2
+avg KEYWORD2
