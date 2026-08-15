@@ -2,6 +2,8 @@
 
 Generic, fixed-size circular buffer for Arduino & C++.
 
+## Features
+
 - Push, reset, clear, full/empty, size, capacity
 - Access oldest/latest elements, search with `contains()`
 - Numeric ops: `min()`, `max()`, `avg()` (numeric types only)
